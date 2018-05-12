@@ -1,0 +1,34 @@
+_repo: The-Plant-Hunters--Adventures-Among-the-Himalaya-Mountains_27981
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Reid, Thomas Mayne
+    - Mayne-Reid, Captain
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_issued: '2009-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Himalaya Mountains -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Plant collectors -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+title: 'The Plant Hunters: Adventures Among the Himalaya Mountains'
+url: http://www.gutenberg.org/ebooks/27981
